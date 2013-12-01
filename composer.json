@@ -1,0 +1,21 @@
+{
+    "name": "itrulia/mobile-detect",
+    "description": "",
+    "authors": [
+        {
+            "name": "Itrulia",
+            "email": "info@karl-merkli.ch"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "suncat/php-mobile-detect": "dev-master",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Itrulia\\MobileDetect": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
