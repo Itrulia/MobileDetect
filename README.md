@@ -16,4 +16,5 @@ Run `composer update` to pull down the latest version of MobileDetect. Now open 
 
 ## Usage
 
-see: [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect)
+Facade would be \Mobile  
+for the API see: [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect)
